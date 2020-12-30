@@ -6,7 +6,7 @@ p
    {
    	font-family: 'Roboto Mono', monospace;
    	font-size: 20px
-   	color: #FAEBD7;
+   	color: #000000;
    	background-color: #8FBC8F;
    	border:2px dotted #191970;
    }
@@ -22,14 +22,14 @@ h1 {
 h2 {
     font-family: 'Roboto Slab', serif;
     font-size: 15px
-    color: #228B22;
+    color: #8B4513;
     background-color: #808080;
    }
 
 h3 {
     font-family: 'Roboto Slab', serif;
     font-size: 20px
-    color: #228B22;
+    color: #000000;
     background-color: #B0C4DE;
    }
 
